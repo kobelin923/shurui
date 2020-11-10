@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1312px" height="708px" viewBox="0 0 1312 708" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>编组 8</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6产品与展示" transform="translate(-305.000000, -942.000000)">
+            <g id="2" transform="translate(0.000000, 750.000000)">
+                <g id="编组-8" transform="translate(305.000000, 192.000000)">
+                    <rect id="矩形" fill="#EEF1F8" x="75.6" y="0" width="1104" height="72"></rect>
+                    <rect id="矩形" fill="#EEF1F8" x="75.6" y="84" width="1104" height="72"></rect>
+                    <rect id="矩形" fill="#EEF1F8" x="75.6" y="168" width="1104" height="192"></rect>
+                    <rect id="矩形" fill="#EEF1F8" x="75.6" y="372" width="1104" height="192"></rect>
+                    <rect id="矩形" fill="#EEF1F8" x="75.6" y="576" width="1104" height="132"></rect>
+                    <g id="间距-&lt;h20-&gt;" transform="translate(111.600000, 12.000000)">
+                        <g id="flow/button/lan">
+                            <g id="编组-7">
+                                <rect id="矩形" fill="#009BC7" x="0" y="0" width="240" height="48" rx="3.6"></rect>
+                                <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#FFFFFF">
+                                    <tspan x="84" y="31">数据接口</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="flow/button/lan" transform="translate(264.000000, 0.000000)">
+                            <g id="编组-7">
+                                <rect id="矩形" fill="#009BC7" x="0" y="0" width="240" height="48" rx="3.6"></rect>
+                                <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#FFFFFF">
+                                    <tspan x="61.5" y="31">数据上传/下载</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="flow/button/lan" transform="translate(528.000000, 0.000000)">
+                            <g id="编组-7">
+                                <rect id="矩形" fill="#009BC7" x="0" y="0" width="240" height="48" rx="3.6"></rect>
+                                <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#FFFFFF">
+                                    <tspan x="84" y="31">系统对接</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="flow/button/lan" transform="translate(792.000000, 0.000000)">
+                            <g id="编组-7">
+                                <rect id="矩形" fill="#009BC7" x="0" y="0" width="240" height="48" rx="3.6"></rect>
+                                <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#FFFFFF">
+                                    <tspan x="112.575" y="31">...</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="flow/button/lan" transform="translate(1191.600000, 0.000000)">
+                        <g id="编组-7" transform="translate(0.000000, -1.800000)">
+                            <rect id="矩形" fill="#0081CB" x="0" y="1.8" width="120" height="72" rx="3.6"></rect>
+                            <text id="输入文本输入-文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#FFFFFF">
+                                <tspan x="42" y="31.5">数据</tspan>
+                                <tspan x="42" y="56.5">对接</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/lan" transform="translate(1191.600000, 84.000000)">
+                        <g id="编组-7" transform="translate(0.000000, -1.800000)">
+                            <rect id="矩形" fill="#0081CB" x="0" y="1.8" width="120" height="72" rx="3.6"></rect>
+                            <text id="输入文本输入-文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#FFFFFF">
+                                <tspan x="42" y="31.5">平台</tspan>
+                                <tspan x="42" y="56.5">系统</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/lan" transform="translate(1191.600000, 168.000000)">
+                        <g id="编组-7" transform="translate(0.000000, -4.800000)">
+                            <rect id="矩形" fill="#0081CB" x="0" y="4.8" width="120" height="192" rx="3.6"></rect>
+                            <text id="输入文本输入-文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#FFFFFF">
+                                <tspan x="42" y="94">计算</tspan>
+                                <tspan x="42" y="119">引擎</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/lan" transform="translate(1191.600000, 372.000000)">
+                        <g id="编组-7" transform="translate(0.000000, -0.400000)">
+                            <rect id="矩形" fill="#0081CB" x="0" y="0.4" width="120" height="336" rx="3.6"></rect>
+                            <text id="输入文本输入-文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#FFFFFF">
+                                <tspan x="42" y="161">数据</tspan>
+                                <tspan x="42" y="186">基础</tspan>
+                                <tspan x="42" y="211">设施</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/lan">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#D1DEFD" x="0" y="0" width="57.6" height="708" rx="3.6"></rect>
+                            <text id="数-据-安-全-防-护-数-据-隐-私" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#0081CB">
+                                <tspan x="19.8" y="32.8">数</tspan>
+                                <tspan x="19.8" y="57.8">据</tspan>
+                                <tspan x="19.8" y="82.8">安</tspan>
+                                <tspan x="19.8" y="107.8">全</tspan>
+                                <tspan x="19.8" y="132.8">防</tspan>
+                                <tspan x="19.8" y="157.8">护</tspan>
+                                <tspan x="28.8" y="182.8">    </tspan>
+                                <tspan x="19.8" y="207.8">数</tspan>
+                                <tspan x="19.8" y="232.8">据</tspan>
+                                <tspan x="19.8" y="257.8">隐</tspan>
+                                <tspan x="19.8" y="282.8">私</tspan>
+                                <tspan x="19.8" y="307.8">保</tspan>
+                                <tspan x="19.8" y="332.8">护</tspan>
+                                <tspan x="28.8" y="357.8">    </tspan>
+                                <tspan x="19.8" y="382.8">系</tspan>
+                                <tspan x="19.8" y="407.8">统</tspan>
+                                <tspan x="19.8" y="432.8">资</tspan>
+                                <tspan x="19.8" y="457.8">源</tspan>
+                                <tspan x="19.8" y="482.8">监</tspan>
+                                <tspan x="19.8" y="507.8">控</tspan>
+                                <tspan x="28.8" y="532.8">    </tspan>
+                                <tspan x="19.8" y="557.8">服</tspan>
+                                <tspan x="19.8" y="582.8">务</tspan>
+                                <tspan x="19.8" y="607.8">状</tspan>
+                                <tspan x="19.8" y="632.8">态</tspan>
+                                <tspan x="19.8" y="657.8">监</tspan>
+                                <tspan x="19.8" y="682.8">控</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/lv" transform="translate(111.600000, 96.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#00C78E" x="0" y="0" width="187.2" height="48" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#FFFFFF">
+                                <tspan x="37.764" y="31">医学OCR系统</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/lv" transform="translate(322.800000, 96.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#00C78E" x="0" y="0" width="187.2" height="48" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#FFFFFF">
+                                <tspan x="39.789" y="31">医学NLP系统</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/lv" transform="translate(534.000000, 96.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#00C78E" x="0" y="0" width="187.2" height="48" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#FFFFFF">
+                                <tspan x="21.6" y="31">智能医学编码系统</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/lv" transform="translate(745.200000, 96.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#00C78E" x="0" y="0" width="187.2" height="48" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#FFFFFF">
+                                <tspan x="12.6" y="31">标准化医学信息系统</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/yellow" transform="translate(111.600000, 180.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#CEDAF0" x="0" y="0" width="240" height="48" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#333333">
+                                <tspan x="48" y="31">图片文件格式解析</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/yellow" transform="translate(375.600000, 180.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#CEDAF0" x="0" y="0" width="240" height="48" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#333333">
+                                <tspan x="66" y="31">医学知识图谱</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/yellow" transform="translate(639.600000, 180.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#CEDAF0" x="0" y="0" width="240" height="48" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#333333">
+                                <tspan x="66" y="31">文档分类算法</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/yellow" transform="translate(903.600000, 180.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#CEDAF0" x="0" y="0" width="240" height="48" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#333333">
+                                <tspan x="84" y="31">语义索引</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/yellow" transform="translate(111.600000, 240.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#CEDAF0" x="0" y="0" width="240" height="48" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#333333">
+                                <tspan x="48" y="31">计算机图像学算法</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/yellow" transform="translate(375.600000, 240.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#CEDAF0" x="0" y="0" width="240" height="48" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#333333">
+                                <tspan x="57" y="31">保险业务知识库</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/yellow" transform="translate(639.600000, 240.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#CEDAF0" x="0" y="0" width="240" height="48" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#333333">
+                                <tspan x="48" y="31">计算机语言学算法</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/yellow" transform="translate(903.600000, 240.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#CEDAF0" x="0" y="0" width="240" height="48" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#333333">
+                                <tspan x="21" y="31">标准化健康数据存储逻辑</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/yellow" transform="translate(111.600000, 300.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#CEDAF0" x="0" y="0" width="240" height="48" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#333333">
+                                <tspan x="66" y="31">文字识别算法</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/lan" transform="translate(111.600000, 384.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#009BC7" x="0" y="0" width="504" height="48" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#FFFFFF">
+                                <tspan x="207" y="31">大数据整合</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/lan" transform="translate(111.600000, 588.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#009BC7" x="0" y="0" width="1032" height="48" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#FFFFFF">
+                                <tspan x="444" y="31">大数据存储与挖掘</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/lan" transform="translate(639.600000, 384.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#009BC7" x="0" y="0" width="504" height="48" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#FFFFFF">
+                                <tspan x="198" y="31">实时智能处理</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/yellow" transform="translate(111.600000, 444.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#CEDAF0" x="0" y="0" width="117" height="48" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#333333">
+                                <tspan x="1.359" y="31">数据清洗/ETL</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/yellow" transform="translate(111.600000, 504.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#CEDAF0" x="0" y="0" width="325.2" height="48" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#333333">
+                                <tspan x="44.232" y="31">大数据批处理 (Map/Reduce)</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/yellow" transform="translate(241.200000, 444.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#CEDAF0" x="0" y="0" width="117" height="48" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#333333">
+                                <tspan x="13.5" y="31">数据标准化</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/yellow" transform="translate(499.200000, 444.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#CEDAF0" x="0" y="0" width="117" height="48" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#333333">
+                                <tspan x="13.5" y="31">大数据整合</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/yellow" transform="translate(369.600000, 444.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#CEDAF0" x="0" y="0" width="117" height="48" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#333333">
+                                <tspan x="13.5" y="31">数据可视化</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/yellow" transform="translate(448.800000, 504.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#CEDAF0" x="0" y="0" width="168" height="48" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#333333">
+                                <tspan x="30" y="31">数据质量监控</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/yellow" transform="translate(111.600000, 648.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#CEDAF0" x="0" y="0" width="240" height="48" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#333333">
+                                <tspan x="61.563" y="31">ElasticSearch</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/yellow" transform="translate(375.600000, 648.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#CEDAF0" x="0" y="0" width="240" height="48" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#333333">
+                                <tspan x="77.736" y="31">MongoDB</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/yellow" transform="translate(638.400000, 648.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#CEDAF0" x="0" y="0" width="240" height="48" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#333333">
+                                <tspan x="56.55" y="31">Oracle/MySQL</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/yellow" transform="translate(902.400000, 648.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#CEDAF0" x="0" y="0" width="240" height="48" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#333333">
+                                <tspan x="95.799" y="31">HDFS</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/yellow" transform="translate(640.800000, 444.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#CEDAF0" x="0" y="0" width="117" height="108" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#333333">
+                                <tspan x="32.661" y="61.625">Storm</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/yellow" transform="translate(769.200000, 444.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#CEDAF0" x="0" y="0" width="117" height="108" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#333333">
+                                <tspan x="33.399" y="61.625">Kafka</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/yellow" transform="translate(898.800000, 444.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#CEDAF0" x="0" y="0" width="117" height="108" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#333333">
+                                <tspan x="15.408" y="61.625">RabbitMQ</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/yellow" transform="translate(1027.200000, 444.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#CEDAF0" x="0" y="0" width="117" height="108" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#333333">
+                                <tspan x="11.16" y="61.625">Tensorflow</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/yellow" transform="translate(375.600000, 300.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#CEDAF0" x="0" y="0" width="240" height="48" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#333333">
+                                <tspan x="57" y="31">逻辑学知识推理</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/yellow" transform="translate(639.600000, 300.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#CEDAF0" x="0" y="0" width="240" height="48" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#333333">
+                                <tspan x="66" y="31">深度学习算法</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/yellow" transform="translate(903.600000, 300.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#CEDAF0" x="0" y="0" width="240" height="48" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#333333">
+                                <tspan x="66" y="31">分析结果展示</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="flow/button/lv" transform="translate(956.400000, 96.000000)">
+                        <g id="编组-7">
+                            <rect id="矩形" fill="#00C78E" x="0" y="0" width="187.2" height="48" rx="3.6"></rect>
+                            <text id="输入文本输入文本输入文本" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#FFFFFF">
+                                <tspan x="39.6" y="31">数据决策系统</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
